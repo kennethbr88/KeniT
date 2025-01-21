@@ -51,7 +51,7 @@ public class CadastroNinjas {
                             if (ninjas[i] == null) {
                                 System.out.println("Digite o nome do ninja" + (i + 1) + ": ");
                                 ninjas[i] = in.nextLine();
-                                System.out.println("Nninja cadastrado com suceoss!");
+                                System.out.println("Ninja cadastrado com sucesso!");
                             }
                         }
                         break;
